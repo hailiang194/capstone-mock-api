@@ -11,7 +11,7 @@ app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
   
-@app.route('/<string:mock_api>', methods = ['GET'])
+@app.route('/<string:mock_api>', methods = ['POST'])
 @cross_origin()
 def details(mock_api):
     res = None

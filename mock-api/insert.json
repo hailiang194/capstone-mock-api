@@ -1,0 +1,14 @@
+{
+"id" : 1000,
+"createdTime" : "2022-05-11T05:11:23",
+"createdName" : null,
+"updateTime" : "2022-05-11T05:11:23",
+"updateName": null,
+"name" : "ABC",
+"code" : "DEF",
+"parentID" : null,
+"position": 1,
+"employeeID": 15,
+"descption": "Hello friend",
+"type": "HDT"
+}
